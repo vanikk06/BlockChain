@@ -28,8 +28,7 @@
  - 資料掌握在單一企業手上，當企業損失資料，資料就沒了
  - 還有，web上資料的所有權、隱私權問題...等等
 
-為此就發展出 Web 3.0（Dapp），web 2.0的問提產生是因為web建構在中心化的營運者手上，而Dapp是建構在區塊鏈技術上達到去中心化的分散式web，
-
+為此就發展出 Web 3.0（Dapp），web 2.0的問提產生是因為web建構在中心化的營運者手上，而Dapp是建構在區塊鏈技術上達到去中心化的分散式web，基本上他具有區塊鏈公開透明且不可竄改的特性。
 
  \
 [Back content](https://github.com/vanikk06/BlockChain/tree/master/HW1#content)
