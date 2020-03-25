@@ -48,11 +48,14 @@
 
   [👉🏻Click👈🏻](https://0xuniverse.com/)
  
-  ![](https://github.com/vanikk06/BlockChain/blob/master/HW1/image/Snipaste_2020-03-25_02-14-30.png)
    0xUniverse是一款建立在以太坊上的收藏品遊戲，玩家可以在其中建造宇宙飛船，探索銀河系並殖民星球。\
  這類遊戲的特色是在遊戲中每個物件都是獨一無二或是數量有限的，數量的限制加上區塊鏈的本質──資料透明且不可逆的過程，讓物件的**價值可以被永久保存**在鏈上，並且玩家可以擁有行星**完全的所有權**（0xUniverse聲稱，即使開發人員被隕石擊中，也不用懷疑你對行星的所有權XD）
   
+- STAR BIT
 
+  [👉🏻Click👈🏻](https://home.star-bit.io/zh-tw/)
+  
+  
   
  \
 [Back content](https://github.com/vanikk06/BlockChain/tree/master/HW1#content)
