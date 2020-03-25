@@ -76,6 +76,8 @@
    - 提供公開透明且不可竄改的交易平台，簡化授權流程讓產權的流動性增加，且每筆產權交易都會被記錄下來，能夠提供具有公信力的版稅結帳機制，讓音樂人得到更好的保障  
 
 #### 他們用這些特性是有意義的嗎？還是為了區塊鏈而區塊鏈？
+我會選擇Soundscape這個Dapp，是因為我覺得這個項目的應用，最能體現區塊鏈的價值。\
+在研究不同Dapp時剛好看到一篇[文章](https://www.blocktempo.com/blockchain-with-or-withour-token/)，它解釋了Token在區塊鏈上背後蘊含的價值是什麼，裡面提到區塊鏈的本質──資料透明不可逆的記帳過程，讓人類社會中不論有形或無形的價值都可以紀錄在區塊鏈中，解決原本價值存在資訊不對稱和無法公平定價的問題，而Soundscape的應用，剛好體現了這一點。
 
  \
 [Back content](https://github.com/vanikk06/BlockChain/tree/master/HW1#content)
