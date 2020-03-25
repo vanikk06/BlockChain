@@ -38,7 +38,7 @@
 
 - EOS PIXEL MASTER
   
-  [👉🏻Click👈🏻](https://pixelmaster.io/)
+  [👉🏻click👈🏻](https://pixelmaster.io/)
   
   EOS PIXEL MASTER是一個包裝成協作藝術品的博弈Dapp，總共有1000\*1000個像素可供繪畫，一個像素點初始價格為0.05的EOS，它利用在像素點上的競價、獎金池和FOMO3D的獎勵機制，來吸引玩家在PIXEL MASTER上進行交易。
   
@@ -46,14 +46,14 @@
   
 - 0xUniverse 
 
-  [👉🏻Click👈🏻](https://0xuniverse.com/)
+  [👉🏻click👈🏻](https://0xuniverse.com/)
  
    0xUniverse是一款建立在以太坊上的收藏品遊戲，玩家可以在其中建造宇宙飛船，探索銀河系並殖民星球。\
  這類遊戲的特色是在遊戲中每個物件都是獨一無二或是數量有限的，數量的限制加上區塊鏈的本質──資料透明且不可逆的過程，讓物件的**價值可以被永久保存**在鏈上，並且玩家可以擁有行星**完全的所有權**（0xUniverse聲稱，即使開發人員被隕石擊中，也不用懷疑你對行星的所有權XD）
   
 - STAR BIT
 
-  [👉🏻Click👈🏻](https://home.star-bit.io/zh-tw/)
+  [👉🏻click👈🏻](https://home.star-bit.io/zh-tw/)
   
   STAR BTI是一間基於 0x Protocol 去中心化的交易所，它和JOYSO類似，加密貨幣可以不通過平台直接在區塊鏈上進行交換，因此不用擔心交易所被駭，可以大大**提升安全性**的問題，除此之外它們還希望可以利用區塊鏈達到**提升效率、降低成本，並增加附加價值的效果**。
   
