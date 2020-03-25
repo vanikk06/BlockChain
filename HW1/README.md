@@ -55,7 +55,9 @@
 
   [👉🏻Click👈🏻](https://home.star-bit.io/zh-tw/)
   
-  STAR BTI是一間基於 0x Protocol 去中心化的交易所，在它的葉面上它和JOYSO類似，因為是
+  STAR BTI是一間基於 0x Protocol 去中心化的交易所，它和JOYSO類似，加密貨幣可以不通過平台直接在區塊鏈上進行交換，因此不用擔心交易所被駭，可以大大**提升安全性**的問題，除此之外它們還希望可以利用區塊鏈達到**提升效率、降低成本，並增加附加價值的效果**。
+  
+  不過此類項目目前遇到的最大問題是交易量低落的問題。
   
  \
 [Back content](https://github.com/vanikk06/BlockChain/tree/master/HW1#content)
