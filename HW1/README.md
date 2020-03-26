@@ -44,6 +44,8 @@
   
   因為PIXEL MASTER是建立在EOS的區塊鏈生態上，所以**不用擔心被竄改或是消失**，但是因為EOS本身限制了節點個數，來換取出塊的速度，所以在去中心化這點是比較不符的。
   
+  ![](https://i1.kknews.cc/SIG=5l2n4o/ctp-vzntr/1538100521330836741447q.jpg)
+  
 - 0xUniverse 
 
   [👉🏻click👈🏻](https://0xuniverse.com/)
