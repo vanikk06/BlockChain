@@ -1,6 +1,11 @@
+// ● 新增功能
+//    1. 增加一個mapping check，確認address是否已經註冊過
+//    2. 增加 receive() function
+
+
 pragma solidity ^0.6.0;
 
-contract HW1 {
+contract Bank {
     
     mapping(string => address) public students;
     mapping(address => uint256) public balances;
