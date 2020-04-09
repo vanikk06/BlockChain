@@ -32,6 +32,7 @@ contract HW1 {
     function transfer(uint256 amount, address payable addr) public payable{
         require(check[msg.sender] == true, 'You are not enroll.');
         require(balances[msg.sender] >= amount, 'Insufficient Balance');
+        balances[msg.sender] -= amount;
         balances[addr] += amount;
     }
    
